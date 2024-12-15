@@ -24,19 +24,6 @@ L'objectif principal est de mettre en œuvre un workflow Git structuré, tout en
 
 ---
 
-## Structure du dépôt
-
-```
-├── src/                # Code source principal
-├── tests/              # Scripts de tests
-├── .github/            # Templates pour issues, PR, workflows CI
-├── hooks/              # Scripts Git hooks (linter, autres automatisations)
-├── docs/               # Documentation du projet
-└── .gitignore          # Fichiers et dossiers ignorés
-```
-
----
-
 ## Prérequis techniques
 
 - Git 2.x
@@ -106,8 +93,4 @@ L'objectif principal est de mettre en œuvre un workflow Git structuré, tout en
 
 ## Auteurs
 
-Projet réalisé par :
-- Ambre Andrieux
-- (Ajoutez vos coéquipiers ici, si applicable)
-
-Pour toute question ou suggestion, veuillez créer une issue sur le dépôt GitHub.
+Projet réalisé par Ambre Andrieux
